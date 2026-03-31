@@ -1,1 +1,1 @@
-' UNION SELECT key, value FROM config --
+
